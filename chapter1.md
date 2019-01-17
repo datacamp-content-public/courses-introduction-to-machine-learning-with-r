@@ -51,7 +51,9 @@ key: 33cac5e5ab
 xp: 100
 ```
 
-
+type what ever you want in the editor. 
+Use it as a calculator to do simple calculation.
+For example, 3+9=? log(5)*sin(0.5*pi)
 
 `@instructions`
 
