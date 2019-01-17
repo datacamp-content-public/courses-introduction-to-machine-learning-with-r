@@ -1,5 +1,5 @@
 ---
-title: 'Chapter Title Here'
+title: 'R basics'
 description: 'Chapter description goes here.'
 ---
 
@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Exercise 1
 
 ```yaml
 type: NormalExercise
